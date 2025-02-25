@@ -2,23 +2,12 @@
 '''
 author: Chao-Jung Wu <wu.chaojung@gmail.com>
 2020-09-18
-
-nanoAAVpipelinecjw.py
-
 2021-04-05 refactor
 2021-04-28 update
 2022-04-10 update
- # replace subprocess by try and raise exception
 2022-04-30 major refactor, app name = ArcticFox
-
-longreadAAVpipelinecjw.py
-
 2022-07-19 tag 0.4.21.03, this version complete igv snapshots.
-
-pipeline.py
-
 2022-07-20 tag 0.4.21.04, this version complete results collection to an upper folder.
-
 '''
 from __future__ import print_function
 import os
